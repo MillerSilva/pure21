@@ -4,6 +4,7 @@
 
 
 **Esto esta en negrita**
+
 _Esto esta en cursiva_
 
 ## Citas
@@ -11,6 +12,7 @@ _Esto esta en cursiva_
 Esto es una linea normal 
 
 > esto es una parte de un bloque de cita.
+
 > esto es otra  parte de un bloque de cita.
 
 ## Listas
@@ -28,7 +30,7 @@ Esto es una linea normal
 * Item 3
 
 
-## Imagens
+## Images
 
 ![](http://www.gondan.com/wp-content/uploads/2013/10/sea-cloud-II.jpg "Velero")
 
