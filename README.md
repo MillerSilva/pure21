@@ -30,8 +30,8 @@ Esto es una linea normal
 
 ## Imagens
 
-![Imagen](http://www.gondan.com/es/nuestros-barcos/ "Velero")
+![](http://www.gondan.com/wp-content/uploads/2013/10/sea-cloud-II.jpg "Velero")
 
-![Imagen](http://inventarioinverciones.blogspot.com/2013/11/imagenes-de-carros-fotos-de-carros.html)
+![](https://www.drim.es/66299-large_default/cars-3-rayo-mcqueen-con-luces-y-sonidos.jpg)
 
 
